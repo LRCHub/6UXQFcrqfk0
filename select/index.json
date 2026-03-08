@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "恋をして",
+  "base_artist": "HY",
+  "createdAt": "2026-03-08T07:00:05.300277Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋をして",
+      "artist": "Anonymouz",
+      "has_synced": true,
+      "path": "select/01_恋をして_Anonymouz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋をして",
+      "artist": "BRIGHT",
+      "has_synced": true,
+      "path": "select/02_恋をして_BRIGHT.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋をして",
+      "artist": "HY",
+      "has_synced": true,
+      "path": "select/03_恋をして_HY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋をして・・・",
+      "artist": "菊池　桃子",
+      "has_synced": false,
+      "path": "select/04_恋をして・・・_菊池_桃子.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋をして",
+      "artist": "HY",
+      "has_synced": false,
+      "path": "select/pl_01_恋をして_HY.txt"
+    }
+  ]
+}
